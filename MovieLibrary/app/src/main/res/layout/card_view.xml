@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="5dp"
+    app:cardBackgroundColor="@color/purple_200"
+    app:cardCornerRadius="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titleView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textColorHint="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/yearView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Year"
+            android:textColorHint="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/countryView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Country"
+            android:textColorHint="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/genreView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Genre"
+            android:textColorHint="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/costView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cost"
+            android:textColorHint="@color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/keywordsView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Keywords"
+            android:textColorHint="@color/black"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

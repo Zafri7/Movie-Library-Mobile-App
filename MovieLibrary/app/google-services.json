@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430944043006",
+    "firebase_url": "https://mobileproject-ee8eb-default-rtdb.firebaseio.com",
+    "project_id": "mobileproject-ee8eb",
+    "storage_bucket": "mobileproject-ee8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430944043006:android:0b34273694f7dd10dccaaf",
+        "android_client_info": {
+          "package_name": "com.example.movielibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430944043006-lf5ocqq9nv50d371fag3u4vs6lo3o46v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw2qRBX_F7XgcP02tn9numO6eee3nAnDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430944043006-lf5ocqq9nv50d371fag3u4vs6lo3o46v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
